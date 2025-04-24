@@ -10,8 +10,8 @@ Our goal is to make mainframe automation feel as natural as modern cloud workflo
 ## Projects
 
 - [`grace`](https://github.com/graceinfra/grace) — Define jobs in YAML, generate output, and prepare mainframe-ready pipelines.
-- `hopper` (coming soon) — A daemon that collects job output and bridges it into modern environments (HTTP, S3, structured logs, etc.)
-- `gracecloud` (future) — A hosted orchestrator for Grace-based workflows, with support for remote job submission, dashboards, and CI/CD.
+- `hopper` — A daemon that collects job output and bridges it into modern environments (HTTP, S3, structured logs, etc.)
+- `gracecloud` — A hosted orchestration platform for Grace-based workflows, with support for remote job submission, dashboards, and CI/CD.
 
 
 ## Why Grace?
@@ -30,4 +30,4 @@ Grace reimagines this ecosystem by offering:
 ## Contact
 
 If you work with COBOL, JCL, or mainframe DevOps - we’d love to hear from you.  
-Reach out via Issues, @arnavsurve, or arnav (at) surve (dot) dev.
+Reach out via Issues, @arnavsurve, or email arnav (at) surve (dot) dev.
